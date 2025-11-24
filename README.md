@@ -1,0 +1,1 @@
+# IW-L1.2-MiniProject1-JavaScriptEssentials
