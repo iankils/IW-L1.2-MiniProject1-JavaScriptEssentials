@@ -1,6 +1,8 @@
+//*For each question, use console.log to 'print' your answer to the console. Print "full sentences" to give context to your answer.
+//* Also, break your answers up by section, like line 5 as an example.
 
 // Mild Challenges 
-
+console.log("Mild Challenges");
 /// The three siblings get their allowance once a week.
 /// Their current obsession is buying unique card games and collecting shoes.
 /// Below is the total money they split weekly, their names, and the price of
@@ -27,15 +29,15 @@ let shoes = 89.78;
 
 // 6. Print out the three siblings' names. "The three siblings are __, __, and ___."
 
-// 7. Use console.log() and a built-in method to count how many characters are in Ricardo's name.
+// 7. Use a built-in method to count how many characters are in Ricardo's name.
 
-// 8. Use console.log() and a built-in method to print out the string "RICARDO MONTOYA DE LA ROSA RAMIREZ"
+// 8. Use a built-in method to print out the string "RICARDO MONTOYA DE LA ROSA RAMIREZ"
 
-// 9. Use console.log() and a built-in method to print out the string "ricardo montoya de la rosa ramirez"
+// 9. Use a built-in method to print out the string "ricardo montoya de la rosa ramirez"
 
-// 10. Use console.log() and a built-in method to print out Ricardo's name, but with all the instances of the letter a removed or deleted.
+// 10. Use a built-in method to print out Ricardo's name, but with all the instances of the letter a removed or deleted.
 
-// 11. Use console.log() and a built-in method to print out "De La Rosa"
+// 11. Use a built-in method to print out "De La Rosa"
 
 // Medium Challenges
 
