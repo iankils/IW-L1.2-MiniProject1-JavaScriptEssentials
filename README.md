@@ -12,10 +12,10 @@ You will be required to research various methods, the Pythagorean theorem formul
 | Grade | Criteria |
 |:------|:-----|
 | 0 | Nothing completed or submitted|
-| 75 - 80 | Mild completed |
-| 80 - 85 | Mild and Medium completed |
-| 85 - 90 | Mild, Medium, and Spicy completed |
-|95 | Everything above AND the Challenge completed |
-|100 | Everything above completed AND the Super Challenge completed |
+| 75 - 80 | Mild completed (Qs 1-11) |
+| 80 - 85 | Mild and Medium completed (+Qs 12-14)|
+| 85 - 90 | Mild, Medium, and Spicy completed (+Qs 15-16)|
+|95 | Everything above AND the Challenge completed (+Q 17)|
+|100 | Everything above completed AND the Super Challenge completed (+Q 18) |
 
-*Note: Points will be deducted for incomplete sections or lack of formatting*
+*Note: Points will be deducted for incomplete sections or lack of formatting/numbering/etc*
