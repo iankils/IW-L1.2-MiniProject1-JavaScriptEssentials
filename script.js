@@ -1,5 +1,6 @@
 //*For each question, use console.log to 'print' your answer to the console. Print "full sentences" to give context to your answer.
-//* Also, break your answers up by section, like line 5 as an example.
+//*Break your answers up by section, like line 5 as an example.
+//*Each answer MUST be numbered, for example: 1. Each sibling would get $5.
 
 // Mild Challenges 
 console.log("Mild Challenges");
@@ -125,7 +126,7 @@ const buyMeals = (budget) => {
 
 
 // 17. [Challenge] Write a function missingLeg(side1, side2) that takes in the length of a hypotenuse and a leg of a right triangle and prints out the missing leg's length
-/// The larger side should be the hypotenuse  
+/// The larger side should be the hypotenuse.  
 
 
 
